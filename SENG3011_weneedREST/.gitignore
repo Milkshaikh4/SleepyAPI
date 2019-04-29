@@ -1,0 +1,5 @@
+run.py
+*.pyc
+*.pyc
+node_modules
+*.node

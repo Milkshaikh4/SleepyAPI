@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="SENG3011_weneedREST/Reports/Final_Report/final_report.css">
+<link rel="stylesheet" type="text/css" href="final_report.css">
 
 *Team we-need-REST*
 

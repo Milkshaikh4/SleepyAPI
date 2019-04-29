@@ -1,0 +1,40 @@
+.nav {
+    height: 55px;
+    background: #292b2c;
+    float: left;
+    width: 100%;
+}
+
+.brand {
+    margin-right: 40px;
+    float: left;
+    font-size: 2rem !important;
+}
+
+.active {
+    background: #fff;
+    color: #292b2c !important;
+}
+
+.nav-item a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+
+.nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav .nav-item {
+    margin: auto 20px;
+    padding: 5px 10px;
+    float: left;
+}
+
+.nav a {
+    color: #fff;
+    text-decoration: none;
+}
